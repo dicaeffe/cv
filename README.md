@@ -1,6 +1,6 @@
 # CV
 ![GitHub](https://img.shields.io/github/license/dicaeffe/cv)
-![GitHub tag (latest by SemVer)](https://img.shields.io/github/v/tag/dicaeffe/cv?sort=semver)
+![GitHub tag](https://img.shields.io/github/v/tag/dicaeffe/cv)
 ![Status](https://img.shields.io/badge/status-cv%20ready%20to%20use-brightgreen)
 
 ## ABOUT
